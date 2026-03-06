@@ -1,0 +1,9 @@
+{
+  "name": "bottom-fishing-guide",
+  "version": "1.0.0",
+  "description": "五类资产抄底指标仪表盘",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js"
+  }
+}
