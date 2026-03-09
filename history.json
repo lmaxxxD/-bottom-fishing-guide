@@ -1,88 +1,32 @@
 [
   {
     "date": "2026-03-09",
-    "timestamp": "2026-03-09T05:36:28.574Z",
+    "timestamp": "2026-03-09T07:41:08.600Z",
     "scores": {
       "A股": {
-        "score": 52,
-        "signal": "中性观望"
+        "score": 35,
+        "signal": "偏向高估",
+        "price": 4615.46
       },
       "港股": {
-        "score": 14,
-        "signal": "注意风险"
+        "score": 21,
+        "signal": "偏向高估",
+        "price": 25405.78
       },
       "美股": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
+        "score": 39,
+        "signal": "偏向高估",
+        "price": 6740.02
       },
       "黄金": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
+        "score": 42,
+        "signal": "中性观望",
+        "price": 5111
       },
       "BTC": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
-      }
-    }
-  },
-  {
-    "date": "2026-03-08",
-    "timestamp": "2026-03-08T05:13:10.823Z",
-    "scores": {
-      "A股": {
-        "score": 52,
-        "signal": "中性观望"
-      },
-      "港股": {
-        "score": null,
-        "signal": "数据缺失"
-      },
-      "美股": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
-      },
-      "黄金": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
-      },
-      "BTC": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
-      }
-    }
-  },
-  {
-    "date": "2026-03-07",
-    "timestamp": "2026-03-07T04:50:59.370Z",
-    "scores": {
-      "A股": {
-        "score": 52,
-        "signal": "中性观望"
-      },
-      "港股": {
-        "score": 14,
-        "signal": "注意风险"
-      },
-      "美股": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
-      },
-      "黄金": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
-      },
-      "BTC": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
+        "score": 86,
+        "signal": "强烈抄底",
+        "price": 72724.51
       }
     }
   },
