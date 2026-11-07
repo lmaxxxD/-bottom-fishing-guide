@@ -1,5 +1,34 @@
 [
   {
+    "date": "2026-11-07",
+    "timestamp": "2026-11-07T06:41:56.229Z",
+    "scores": {
+      "A股": {
+        "score": 75,
+        "signal": "可以关注"
+      },
+      "港股": {
+        "score": 28,
+        "signal": "偏向高估"
+      },
+      "美股": {
+        "score": 40,
+        "signal": "中性观望",
+        "price": 7376.86
+      },
+      "黄金": {
+        "score": 69,
+        "signal": "可以关注",
+        "price": 4079.5
+      },
+      "BTC": {
+        "score": null,
+        "signal": "数据缺失",
+        "price": null
+      }
+    }
+  },
+  {
     "date": "2026-11-06",
     "timestamp": "2026-11-06T07:29:25.750Z",
     "scores": {
@@ -832,35 +861,6 @@
         "score": 79,
         "signal": "可以关注",
         "price": 4218.7001953125
-      },
-      "BTC": {
-        "score": null,
-        "signal": "数据缺失",
-        "price": null
-      }
-    }
-  },
-  {
-    "date": "2026-10-08",
-    "timestamp": "2026-10-08T06:48:05.834Z",
-    "scores": {
-      "A股": {
-        "score": 56,
-        "signal": "中性观望"
-      },
-      "港股": {
-        "score": 44,
-        "signal": "中性观望"
-      },
-      "美股": {
-        "score": 21,
-        "signal": "偏向高估",
-        "price": 7801.77
-      },
-      "黄金": {
-        "score": 81,
-        "signal": "强烈抄底",
-        "price": 4139.6
       },
       "BTC": {
         "score": null,
